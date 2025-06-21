@@ -48,5 +48,5 @@ h1 {
 
 
 .stanza {
-  margin-bottom: 2em;
+  margin-bottom: 1.5em; /* space between stanzas */
 }
