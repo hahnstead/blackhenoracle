@@ -45,3 +45,8 @@ h1 {
 .btn:hover {
   background-color: #333;
 }
+
+
+.stanza {
+  margin-bottom: 2em;
+}
